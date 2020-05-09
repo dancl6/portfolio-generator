@@ -1,4 +1,4 @@
-// const fs = require('fs');
+const fs = require('fs');
 
 // create the about section
 const generateAbout = aboutText => {
